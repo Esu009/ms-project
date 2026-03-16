@@ -16,7 +16,7 @@ mkdir D:/Projects/Deployment
 2. Pull code from Repository
 
 ```bash
-git clone https://git.dcpltechnology.com/dcpl/ai-model-comparison/ai-modelcomparison-be
+git clone https://github.com/Esu009/ms-project
 ```
 
 3. Go into the project source folder
@@ -94,7 +94,7 @@ mkdir D:/Projects/Deployment
 2. Pull Code from Repository
 
 ```bash
-git clone https://git.dcpltechnology.com/dcpl/ai-model-comparison/ai-modelcomparison-frontend.git
+git clone https://github.com/Esu009/ms-project
 ```
 
 3. Check out the dev branch
@@ -138,7 +138,7 @@ mkdir D:/Projects/Deployment
 2. Pull Code from Repository
 
 ```bash
-git clone https://git.dcpltechnology.com/dcpl/ai-model-comparison/AI-ModelComparison-Admin-Panel.git
+git clone https://github.com/Esu009/ms-project
 ```
 
 3. Check out the dev branch
@@ -172,13 +172,6 @@ http://localhost:3002
 
 ---
 
-# Screenshots
-
-## Docker Desktop
-
-*(Add Docker Desktop screenshots here if required)*
-
----
 
 # URLs
 
